@@ -1,6 +1,6 @@
 # NoProblemo
 
-When want to say that you don't experience the problem that someone is trying to resolve
+When you want to say that you don't experience the problem that someone is trying to solve
 
 ## Rules
 
@@ -11,5 +11,5 @@ When want to say that you don't experience the problem that someone is trying to
 
 Just start any sort of discussion, then :
 
-> Even tho our specification are the same, I'm here to say that everything is working fine on my computer.
-> I don't have any particular driver or soft installed that could cause this issue but I really wanted to talk about it.
+> Even tho our specifications are the same, I'm here to say that everything is working fine on my computer.
+> I don't have any particular drivers or softwares installed that could cause this issue but I really wanted to talk about it.
